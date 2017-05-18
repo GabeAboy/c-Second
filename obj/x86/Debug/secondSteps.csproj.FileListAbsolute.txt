@@ -1,0 +1,5 @@
+/Users/user/AfterMath/cSharp/secondSteps/secondSteps/bin/Debug/secondSteps.exe
+/Users/user/AfterMath/cSharp/secondSteps/secondSteps/bin/Debug/secondSteps.pdb
+/Users/user/AfterMath/cSharp/secondSteps/secondSteps/obj/x86/Debug/secondSteps.csproj.CoreCompileInputs.cache
+/Users/user/AfterMath/cSharp/secondSteps/secondSteps/obj/x86/Debug/secondSteps.exe
+/Users/user/AfterMath/cSharp/secondSteps/secondSteps/obj/x86/Debug/secondSteps.pdb
